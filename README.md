@@ -1,6 +1,6 @@
 # MedTracker - Medication Reminder App
 
-Hey! This is my hackathon project for the healthcare track. I'm building a web app to help people remember to take their medications because I've seen my grandparents struggle with this.
+Hey! This is my hackathon project for the healthcare track. I'm building a web app to help people remember to take their medications because I've seen my grandparents, and parents  struggle with this.
 
 ## What I'm trying to build
 
